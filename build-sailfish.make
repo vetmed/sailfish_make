@@ -10,7 +10,7 @@ api=2
 projects[] = drupal
 
 ; Sailfish Install Profile
-projects[dosu_profile][type] = "profile"
-projects[dosu_profile][download][type] = "git"
-projects[dosu_profile][download][url] = "https://github.com/vetmed/sailfish_profile.git"
-projects[dosu_profile][download][branch] = "master"
+projects[sailfish][type] = "profile"
+projects[sailfish][download][type] = "git"
+projects[sailfish][download][url] = "https://github.com/vetmed/sailfish_profile.git"
+projects[sailfish][download][branch] = "master"
