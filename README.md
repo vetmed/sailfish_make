@@ -1,4 +1,4 @@
 sailfish
 ========
 
-VetMed installation profile
+VetMed drush make file
